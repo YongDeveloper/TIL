@@ -20,5 +20,6 @@ public class Main_11654_ASCI {
 ```
 - 아스키 코드로 전환하는 방법은 문자를 int형으로 변환시켜주는 것이다
 - 출력 시 Integer.valueOf를 처리해준다. (Integer.parseInt는 불가)
+- Integer.parseInt는 int형을 반환하고 Integer.valueOf는 Integer형을 반환한다.
 
 
