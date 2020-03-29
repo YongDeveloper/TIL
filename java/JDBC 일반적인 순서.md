@@ -7,7 +7,7 @@
 - 만들어진 statement를 실행한다.
 - 조회의 경우 SQL 의 쿼리 결과를 ResultSet으로 받아서 User에 옮겨준다.
 - 작업 중에 생성된 Connection, statement, resultset 같은 리소스는 작업을 마친후 닫아준다.
-- JDBC API가 만들어내는 예외를 직접 처리하거나, 메소드 밖으로 던진다.
+- JDBC API가 만들어내는 예외를 직접 처리하거나, 메소드 밖으로 던진다. 
 
 ```java
 public class UserDao {
