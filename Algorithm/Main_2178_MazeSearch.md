@@ -75,3 +75,4 @@ public class Main_2178_MazeSearch {
 
 - 사방탐색 BFS로 구현하였다.
 - Queue API를 이용하였고, x좌표와 y좌표 각각 큐 처리.
+- 도착지점까지의 거리를 표시해야하므로, 맵상에 경로를 증가시켜 주었다.
