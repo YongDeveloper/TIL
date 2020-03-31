@@ -25,7 +25,7 @@ public class Main_11866_Yosepuse {
 		int [] arr = new int [N];
 		
 		for (int i = 1; i <= N; i++) {
-			deque.offerLast(i);
+			deque.offerLast(i);  
 		}
 		while(cnt<N) {
 			for (int i = 0; i < K; i++) {
