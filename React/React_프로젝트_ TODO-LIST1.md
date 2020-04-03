@@ -1,6 +1,6 @@
 # React 프로젝트1 
 
-#### Todo-list 추가하기
+#### Todo-list 제작 - 
 
 ![image](https://user-images.githubusercontent.com/62415893/78362918-e2c1a400-75f5-11ea-9485-16da13077925.png)
 
