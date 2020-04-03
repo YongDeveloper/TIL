@@ -31,7 +31,7 @@ public class Main_11725_ParentTreeSearch {
 			list[b].add(a);
 		}
 		for (int i = 1; i <= N; i++) {
-			if(!visited[i]) DFS(i);
+			if(!visited[i]) DFS(i); 
 		}
 		
 		for (int i = 2; i <= N; i++) {
