@@ -21,9 +21,8 @@ public class Main_11047_Coin0 {
 		}
 		
 		System.out.println(cnt);
-		
 	}//main
-
+	
 }//class
 ```
 - 그리디 문제 : 전체 금액에서 큰 금액의 종류부터 감소하는 방향으로 구현.
