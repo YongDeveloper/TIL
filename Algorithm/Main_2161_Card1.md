@@ -27,3 +27,4 @@ public class Main_2161_Card1 {
 }//class
 
 ```
+- 시뮬레이션 문제이지만 Queue를 이용하여 구현.
