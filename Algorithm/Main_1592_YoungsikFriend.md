@@ -41,3 +41,4 @@ public class Main_1592_YoungsikFriend {
 
 ```
 - 시뮬레이션 문제 하나하나씩 차근차근 구현
+- 마지막 cnt에 -1을 한 이유는 Check하는 if문의 위치때문이다.
