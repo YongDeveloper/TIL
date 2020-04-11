@@ -13,7 +13,8 @@ public class Main_1568_Bird {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(br.readLine());
-		int K = 1; int cnt = 0;
+		int K = 1; 
+		int cnt = 0;
 		while(N>0) {
 			if(N>=K) {
 				N -= K; K++; cnt++;
