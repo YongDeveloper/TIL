@@ -19,7 +19,8 @@ public class Main_1568_Bird {
 			if(N>=K) {
 				N -= K; K++; cnt++;
 			}else {//N < cnt
-				K = 1; N -= K; K++; cnt++;
+				K = 1; N -= K; 
+				K++; cnt++;
 			}
 		}
 		System.out.println(cnt);
