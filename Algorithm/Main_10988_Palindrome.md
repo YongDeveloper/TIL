@@ -26,3 +26,4 @@ public class Main_10988_Palindrome {
 
 ```
 - 문자열 처리 문제.
+ 
