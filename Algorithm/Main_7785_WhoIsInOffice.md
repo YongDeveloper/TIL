@@ -76,4 +76,4 @@ public class Main_7785_WhoIsInOffice {
 
 ```
 - 자료구조 문제
-- Arraylist와 stack을 이용하여 구현.
+- Arraylist와 Stack을 이용하여 구현. 
