@@ -70,3 +70,4 @@ public class Main_2822_ScoreCalc {
 
 ```
 - for 처리 문제
+- 새로운 class를 생성하여 list에 담아서 구현
