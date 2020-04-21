@@ -73,3 +73,4 @@ public class Main_14890_Runway {
 
 ```
 - 시뮬레이션 문제.
+- 잘 설치된 경사로를 판단하는 class를 새로 만들어서 구현.
