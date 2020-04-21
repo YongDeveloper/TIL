@@ -104,3 +104,4 @@ public class Main_3055_Exit {
 
 ```
 - 시뮬레이션 문제.
+- Queue를 이용하여 최단 경로를 찾았다.
