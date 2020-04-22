@@ -41,4 +41,4 @@ public class Main_2864_Difference56 {
 
 ```
 - 문자열 처리 문제.
-- str API중 replace를 이용하여 구현.
+- String API중 replace를 이용하여 구현.
