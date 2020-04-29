@@ -144,3 +144,5 @@ public class Main_15683_CCTV {
 
 ```
 - 시뮬레이션 문제. DFS로 구현.
+- System.arraycopy를 잘 구현하기 
+	- System.arraycopy(원본, 0, 복사본, 0, 길이);
