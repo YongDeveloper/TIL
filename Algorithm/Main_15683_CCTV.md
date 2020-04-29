@@ -147,3 +147,4 @@ public class Main_15683_CCTV {
 - System.arraycopy를 잘 구현하기 
 	- System.arraycopy(원본, 0, 복사본, 0, 길이);
 	- 원본 맵을 복사할때 오리지날 원본 맵인지 이전 맵인지 잘 구분하자.
+- DFS할때 마지막 for문에 걸린 것부터 역순으로 탐색한다. 잊지말것.
