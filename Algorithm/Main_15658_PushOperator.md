@@ -49,4 +49,4 @@ public class Main_15658_PushOperator {
 ```
 - Bruteforce 문제
 - 순열로 구현했더니 시간초과.
-- DFS로
+- DFS로 구현.
