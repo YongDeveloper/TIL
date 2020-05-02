@@ -39,5 +39,5 @@ public class Main_14501_Leave {
 	}//DFS
 }//class
 ```
-- bruteforce 문제
+- Bruteforce 문제
 - DFS, DP, 완탐의 방법이 있지만 DFS로 구현.
