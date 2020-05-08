@@ -1,6 +1,7 @@
 # JSP 프로젝트 - BBS 게시판 만들기
 ### 1. 로그인페이지 구성
 ![image](https://user-images.githubusercontent.com/62415893/81380768-6109ec80-9146-11ea-84ab-f16dcc53e482.png)
+#### login.jsp
 ```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
