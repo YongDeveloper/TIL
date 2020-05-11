@@ -1,5 +1,5 @@
 # JSP 프로젝트 - BBS 게시판 만들기
-### 8. 글 수정, 삭제, Main 제작 
+### 8. 게시판 글 수정, 삭제, Main 제작 
 ![image](https://user-images.githubusercontent.com/62415893/81563505-4c8d5480-93d1-11ea-8038-b52794942850.png)
 ![image](https://user-images.githubusercontent.com/62415893/81563552-5a42da00-93d1-11ea-940e-ebb2cef71ef9.png)
 ![image](https://user-images.githubusercontent.com/62415893/81563631-79416c00-93d1-11ea-9724-0010d576be05.png)
